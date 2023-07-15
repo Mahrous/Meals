@@ -7,7 +7,7 @@
 
         <variable
             name="model"
-            type="com.hamalawey.mealz.MainActivity" />
+            type="com.mahrous.mealz.MainActivity" />
     </data>
 
     <androidx.constraintlayout.widget.ConstraintLayout
